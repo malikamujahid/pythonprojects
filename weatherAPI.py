@@ -27,7 +27,7 @@ def descriptionWeather(cityWeather, cityname):
     print(f"The temperature in {cityname} is {temp}°C\n"
           f"The humidity in {cityname} is {humidity}%\n"
           f"Weather description: {description}")
-    logging.info("weather data dispolayed")
+    logging.info("weather data dispolayedd")
 
 descriptionWeather(cityWeather, cityname )
 
