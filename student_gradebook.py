@@ -101,7 +101,7 @@ class Student:
             print("JSON file not found.")
             return
         except Exception as e:
-            print("Error reading JSON file:", e)
+            logging.error(f"Unable to open JSON file to add new data {e}")
             return
 
         try:
