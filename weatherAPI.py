@@ -28,8 +28,6 @@ def descriptionWeather(cityWeather, cityname):
           f"The humidity in {cityname} is {humidity}%\n"
           f"Weather description: {description}")
 
-
-
 descriptionWeather(cityWeather, cityname )
 
 
