@@ -59,7 +59,7 @@ def deleteActivity(activityDelete, filename):
     logging.info("Current activity list loaded. for deleteActivity.")
     activity_list[:] = [item for item in activity_list if item['activity'] != activityDelete]
     writeActivity(filename)
-    logging.info(f"Activity '{activityDelete}' deleted successfully using delete function.")
+    """logging.info(f"Activity '{activityDelete}' deleted successfully using delete function.") """
 
 def updateStatus(status, activity_id, filename):
     global activity_list
