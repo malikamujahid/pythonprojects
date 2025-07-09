@@ -50,7 +50,7 @@ def addActivity(activity, status, filename):
     appendActivity(activity, status)
     logging.info("Activity appended to the list.")
     writeActivity(filename)
-    logging.info("Activity list written to file successfully.")
+    logging.info("Activity list written to file successfully in add activity function.")
 
 def deleteActivity(activityDelete, filename):
     global activity_list
