@@ -28,4 +28,28 @@ def clean_data(filename):
     logging.info("Data types redefined successfully")
     return df
 
+def recommend(genre, ratingpref):
+    logging.info("Recommending movies")
+        
+    df = pd.read_csv('movies.csv')
+    filtered_df = df[(df['Genre'] == genre) | (df['IMDB_Rating'] >= ratingpref)]
+        
+    if filtered_df.empty:
+        logging.warning("No movies found for the given criteria")
+        return "No recommendations available"   
+        
+    else:
+        print(filtered_df.head())
+
+        
 clean_data('movies.csv')
+user_input= input("Enter the genre and  rating preference: eg (action, 8.5): ")
+genre, ratingpref = user_input.split(',')
+genre = genre.strip()
+ratingpref = float(ratingpref.strip()) 
+        
+print("Recommended Movies:")
+recommendations = recommend(genre, ratingpref)
+print(recommendations)
+    
+    
