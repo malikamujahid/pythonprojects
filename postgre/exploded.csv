@@ -1,0 +1,87 @@
+user_id,name,email,age,gender,street,city,zipcode,plan,start_date,active
+3947f065-48df-4a29-be58-5d061f9c06dc,Joseph Williams,jeremymurphy@hotmail.com,64,non-binary,22965 Cindy Road,Christinaberg,71854,Pro,2024-12-30,True
+93c284b0-6e30-498e-b58b-c14ee9c22507,Charles Snyder,smiranda@hotmail.com,35,male,37994 Mendez Knolls Apt. 224,East Brandonton,60366,Basic,2023-04-21,False
+a83aa60b-2359-4f56-b7bb-88b1713d5114,Michele Bell,edwardnavarro@cooper-miles.com,30,male,6107 Collins Ford,Lake Amandatown,47261,Music,2024-07-14,True
+a83aa60b-2359-4f56-b7bb-88b1713d5114,Michele Bell,edwardnavarro@cooper-miles.com,30,male,6107 Collins Ford,Lake Amandatown,47261,Creator,2025-04-29,True
+a83aa60b-2359-4f56-b7bb-88b1713d5114,Michele Bell,edwardnavarro@cooper-miles.com,30,male,6107 Collins Ford,Lake Amandatown,47261,Creator,2024-10-30,False
+41a34688-e8c5-4771-8f9f-c5e592b19ec5,Michael Dunn,samantha97@gmail.com,28,female,55608 James Key,South Sergio,68861,Basic,2024-07-23,True
+0295677f-6daa-489b-bded-9da3a93b331c,Michael Sims,jason12@gmail.com,51,female,109 Susan Vista Suite 960,Howardborough,01791,Music,2023-07-06,True
+0295677f-6daa-489b-bded-9da3a93b331c,Michael Sims,jason12@gmail.com,51,female,109 Susan Vista Suite 960,Howardborough,01791,Creator,2024-01-25,False
+a87fc7d0-7f05-45ce-b1ff-e8601b7784a3,Tyrone Nguyen,flopez@yahoo.com,36,non-binary,95911 Johnson Trafficway,Lake Joanmouth,25214,Pro,2024-03-27,True
+a87fc7d0-7f05-45ce-b1ff-e8601b7784a3,Tyrone Nguyen,flopez@yahoo.com,36,non-binary,95911 Johnson Trafficway,Lake Joanmouth,25214,Creator,2023-11-10,True
+bc1b60d7-9d8f-4697-82df-4efe5719edfa,Richard Scott,zliu@reed-long.biz,40,non-binary,871 Angela Radial,Travisview,99406,Music,2022-12-02,False
+bc1b60d7-9d8f-4697-82df-4efe5719edfa,Richard Scott,zliu@reed-long.biz,40,non-binary,871 Angela Radial,Travisview,99406,Basic,2023-01-01,True
+bc1b60d7-9d8f-4697-82df-4efe5719edfa,Richard Scott,zliu@reed-long.biz,40,non-binary,871 Angela Radial,Travisview,99406,Pro,2024-05-26,True
+ec97e26f-6a6f-4e29-96e8-40f6336d588c,Stephanie Wolfe,qbenton@santos.net,31,non-binary,283 Alice Cape Suite 335,Johnsonhaven,85368,Basic,2024-07-03,False
+ec97e26f-6a6f-4e29-96e8-40f6336d588c,Stephanie Wolfe,qbenton@santos.net,31,non-binary,283 Alice Cape Suite 335,Johnsonhaven,85368,Basic,2023-04-28,True
+ec97e26f-6a6f-4e29-96e8-40f6336d588c,Stephanie Wolfe,qbenton@santos.net,31,non-binary,283 Alice Cape Suite 335,Johnsonhaven,85368,Basic,2023-05-12,False
+4d7fc430-9799-4add-a72a-c12ebb7b8b73,Jason Brewer,psmith@yahoo.com,34,male,770 Kim Branch Apt. 663,Port Elizabeth,94256,Creator,2024-03-17,False
+4d7fc430-9799-4add-a72a-c12ebb7b8b73,Jason Brewer,psmith@yahoo.com,34,male,770 Kim Branch Apt. 663,Port Elizabeth,94256,Pro,2024-04-02,True
+1b1bc004-9823-49fc-a361-dc0d97cf4764,Susan Wilkins,thomasramos@thomas-johnson.com,39,female,08312 Diane Parks,South Laurabury,59074,Creator,2023-06-05,True
+6a476342-659d-4b17-8057-0847c76dc085,Ricardo Freeman,acostasusan@bowman-schmidt.com,25,female,99364 Maldonado Springs,Roymouth,36897,Basic,2023-04-13,False
+6a476342-659d-4b17-8057-0847c76dc085,Ricardo Freeman,acostasusan@bowman-schmidt.com,25,female,99364 Maldonado Springs,Roymouth,36897,Creator,2024-03-12,False
+1099215a-f9a9-4e4e-970a-c2e6620baa44,Sean Schneider,michelle03@torres.net,56,male,172 Jennifer Squares Suite 809,East David,36203,Creator,2023-08-06,True
+df596dbc-4e72-4e6d-8d56-243f995e3fad,Jessica Hawkins,gatespatricia@graham-jones.info,52,male,957 Steele Freeway Suite 736,Martinezshire,86186,Basic,2022-11-24,True
+df596dbc-4e72-4e6d-8d56-243f995e3fad,Jessica Hawkins,gatespatricia@graham-jones.info,52,male,957 Steele Freeway Suite 736,Martinezshire,86186,Music,2024-07-07,True
+df596dbc-4e72-4e6d-8d56-243f995e3fad,Jessica Hawkins,gatespatricia@graham-jones.info,52,male,957 Steele Freeway Suite 736,Martinezshire,86186,Music,2024-12-09,False
+685a3dc0-b41a-451b-87e5-96fb866d4f84,Jennifer Martin,nchambers@jackson-peterson.com,50,male,52145 James Fort,New Katelynborough,44082,Basic,2024-01-23,False
+6521ac71-c000-4713-b2f0-2a0e998cdd80,Stanley Galloway,jgonzales@reyes-wilson.net,33,female,725 Rebekah Centers,East John,98442,Basic,2024-11-29,False
+76f76d5a-fb9c-4428-aae7-bf3d016cb151,Carolyn Farmer,lcannon@kim.org,56,female,3584 Perez Tunnel Apt. 249,West Savannahberg,67315,Music,2024-05-05,True
+76f76d5a-fb9c-4428-aae7-bf3d016cb151,Carolyn Farmer,lcannon@kim.org,56,female,3584 Perez Tunnel Apt. 249,West Savannahberg,67315,Pro,2023-11-11,False
+df99a711-e780-47b4-9fe4-64411f4c1b08,Sandra Rice,josephjohnson@hotmail.com,64,non-binary,50212 Roberto Causeway Suite 740,Smithland,75052,Pro,2024-01-22,False
+df99a711-e780-47b4-9fe4-64411f4c1b08,Sandra Rice,josephjohnson@hotmail.com,64,non-binary,50212 Roberto Causeway Suite 740,Smithland,75052,Music,2023-01-28,False
+8351619f-97b2-4469-8c54-f15cd02822e7,Joseph Obrien,allisonmaynard@miller-peterson.info,22,non-binary,37997 Graham Isle Suite 449,Stevenfurt,60743,Creator,2023-03-11,True
+8351619f-97b2-4469-8c54-f15cd02822e7,Joseph Obrien,allisonmaynard@miller-peterson.info,22,non-binary,37997 Graham Isle Suite 449,Stevenfurt,60743,Creator,2025-07-05,True
+7a73fbc9-afed-49b9-898b-285e920d1fea,Melissa Reese,lpowers@haynes.net,26,non-binary,71219 Hall Corner Apt. 943,Rodriguezshire,50930,Pro,2023-06-12,False
+3ce414d3-b551-4058-ab24-d36b32b695a3,Kimberly Miller,kirbyscott@oconnor.info,39,male,22425 Weeks Throughway,Cassandrafort,15283,Basic,2025-06-16,False
+43429db6-17d9-4c17-94bb-80a996826322,Kathleen Patterson,zwarren@wright-brown.biz,50,female,9181 Cox Greens Apt. 968,Jamesville,17973,Pro,2023-10-16,True
+43429db6-17d9-4c17-94bb-80a996826322,Kathleen Patterson,zwarren@wright-brown.biz,50,female,9181 Cox Greens Apt. 968,Jamesville,17973,Basic,2024-01-04,True
+43429db6-17d9-4c17-94bb-80a996826322,Kathleen Patterson,zwarren@wright-brown.biz,50,female,9181 Cox Greens Apt. 968,Jamesville,17973,Music,2024-08-27,True
+2a6e5ada-a1d5-42a3-bddc-9932576729d3,Nichole Perez,bradley00@lopez.com,28,non-binary,781 Fuller Pass Apt. 770,Whiteville,43766,Music,2024-04-21,False
+34d177b2-b466-4800-9892-f7932bc2fb59,Paul Holmes,joshua59@gmail.com,44,female,5136 Casey Ridges Suite 788,Port Kevin,78181,Basic,2024-09-03,False
+34d177b2-b466-4800-9892-f7932bc2fb59,Paul Holmes,joshua59@gmail.com,44,female,5136 Casey Ridges Suite 788,Port Kevin,78181,Music,2025-03-10,False
+34d177b2-b466-4800-9892-f7932bc2fb59,Paul Holmes,joshua59@gmail.com,44,female,5136 Casey Ridges Suite 788,Port Kevin,78181,Basic,2023-07-03,False
+debf4287-18f5-4a81-8b19-fb0e57f0abf3,Denise Gonzalez,ericwalsh@banks.com,44,female,7052 Ronnie Avenue,Leonshire,44086,Music,2024-09-08,True
+debf4287-18f5-4a81-8b19-fb0e57f0abf3,Denise Gonzalez,ericwalsh@banks.com,44,female,7052 Ronnie Avenue,Leonshire,44086,Pro,2023-06-15,False
+a0bed6dd-524d-4857-91c5-3e50274de2ee,Sylvia Aguilar,dthomas@gmail.com,30,male,704 Kathleen Forest Suite 364,Port Mariaside,98009,Basic,2023-01-31,False
+8a68d16d-5e0a-45bd-848b-5ec1d8a63692,Michael Jones,adkinsfrancisco@gmail.com,29,female,860 Sanchez Fort Apt. 294,Michellestad,85328,Creator,2023-08-21,False
+ad25cc63-de44-48fe-8fe6-34010939e310,Donna Mccoy,hrobertson@gmail.com,33,female,504 Sherry Wall,East Jacobstad,69992,Basic,2024-04-30,False
+ad25cc63-de44-48fe-8fe6-34010939e310,Donna Mccoy,hrobertson@gmail.com,33,female,504 Sherry Wall,East Jacobstad,69992,Pro,2024-10-08,False
+2cf68eaf-e5ac-430b-bf50-fe424f5dd121,Sarah Ryan,rayweber@yahoo.com,27,non-binary,222 Savage Island Suite 822,East Stephen,21835,Music,2023-05-12,True
+138a4a1e-dc7a-4781-98e7-93de5d0bff41,Todd Nelson,emilylawrence@harrington.com,45,female,86329 Alexander Parkways Suite 129,South Michael,49310,Basic,2025-01-20,True
+138a4a1e-dc7a-4781-98e7-93de5d0bff41,Todd Nelson,emilylawrence@harrington.com,45,female,86329 Alexander Parkways Suite 129,South Michael,49310,Pro,2023-02-15,False
+09690b01-c216-402b-8095-4e37a18bb38e,Lisa Harding,janet12@gmail.com,31,non-binary,571 Sean Plains Apt. 596,Leburgh,98573,Basic,2023-10-13,True
+09690b01-c216-402b-8095-4e37a18bb38e,Lisa Harding,janet12@gmail.com,31,non-binary,571 Sean Plains Apt. 596,Leburgh,98573,Creator,2024-05-27,True
+c880f78e-389d-4503-9ef4-d14e45938c73,Angela Hernandez,lawrenceconner@yahoo.com,45,non-binary,459 Kirby Station Apt. 521,Port Jerry,25802,Basic,2022-12-08,False
+02869bd5-ae5b-4a06-9a82-fffbe8e933a8,Franklin Williamson,qmason@gmail.com,33,male,8497 Cruz Shore,Alexanderfurt,47293,Basic,2025-05-01,False
+02869bd5-ae5b-4a06-9a82-fffbe8e933a8,Franklin Williamson,qmason@gmail.com,33,male,8497 Cruz Shore,Alexanderfurt,47293,Music,2023-08-21,True
+1664ca61-4875-4680-8093-654786ef6095,Mr. John Evans,jonesscott@alvarez.com,27,non-binary,62070 Griffin Turnpike Suite 342,Hamptontown,28509,Basic,2023-01-24,False
+1664ca61-4875-4680-8093-654786ef6095,Mr. John Evans,jonesscott@alvarez.com,27,non-binary,62070 Griffin Turnpike Suite 342,Hamptontown,28509,Pro,2025-06-30,True
+6d168cbc-5ce4-4972-b50f-82520c7f4311,Antonio Campbell,ztaylor@hudson-lambert.org,40,non-binary,769 Duncan Center,Jordanport,51972,Pro,2024-11-27,True
+6d168cbc-5ce4-4972-b50f-82520c7f4311,Antonio Campbell,ztaylor@hudson-lambert.org,40,non-binary,769 Duncan Center,Jordanport,51972,Creator,2023-10-08,True
+0a657d65-053b-4d2c-b824-36ad04ff6006,Jimmy Rice,lklein@gmail.com,43,non-binary,96110 Lee Shores Apt. 141,East Lisa,38571,Basic,2023-06-22,True
+a87931e2-8a01-4eb2-b3a6-712fa4f10458,Michael Mccarthy,gary29@stokes.com,57,male,729 Michael Hollow Suite 610,East Vicki,60600,Basic,2024-07-15,True
+a87931e2-8a01-4eb2-b3a6-712fa4f10458,Michael Mccarthy,gary29@stokes.com,57,male,729 Michael Hollow Suite 610,East Vicki,60600,Basic,2022-10-28,True
+33b881a5-0bde-4b42-a39f-83725e33f560,Trevor Hutchinson,wkaiser@yahoo.com,32,female,847 Thomas Roads Suite 228,Shelbystad,04588,Pro,2024-03-01,True
+33b881a5-0bde-4b42-a39f-83725e33f560,Trevor Hutchinson,wkaiser@yahoo.com,32,female,847 Thomas Roads Suite 228,Shelbystad,04588,Basic,2024-06-04,True
+33b881a5-0bde-4b42-a39f-83725e33f560,Trevor Hutchinson,wkaiser@yahoo.com,32,female,847 Thomas Roads Suite 228,Shelbystad,04588,Pro,2024-11-04,True
+4570acc9-828f-4765-a3b8-7c84a714564f,Dylan White,russell63@hotmail.com,59,female,74578 Buckley Rest Suite 349,Charlesville,70810,Music,2024-04-21,False
+d728acd7-3c92-49cf-908f-53e71a104bd3,William Jackson,ramirezgary@yahoo.com,41,female,75567 Amber Village Apt. 812,Mcdonaldfurt,75738,Pro,2024-11-27,True
+d728acd7-3c92-49cf-908f-53e71a104bd3,William Jackson,ramirezgary@yahoo.com,41,female,75567 Amber Village Apt. 812,Mcdonaldfurt,75738,Pro,2024-07-01,False
+d728acd7-3c92-49cf-908f-53e71a104bd3,William Jackson,ramirezgary@yahoo.com,41,female,75567 Amber Village Apt. 812,Mcdonaldfurt,75738,Music,2025-03-16,False
+6c39409c-98ea-4715-9ca3-ed07a678679b,Donald Conley,wilkersonkatie@hotmail.com,62,non-binary,6688 Harvey Village,East James,18544,Music,2024-05-14,True
+ceaafc54-d7d0-41a1-96a3-49395e237acf,Taylor Hill,ogonzalez@gmail.com,54,non-binary,0694 Joshua Mews Apt. 060,Bartonmouth,52270,Basic,2024-04-29,False
+bebd0009-1313-4290-b402-15a9fb2e0b7f,Jonathan Riggs,nking@hotmail.com,45,female,3404 Kelly Falls,West Pamelachester,27429,Creator,2024-02-04,True
+3f10d721-57af-4f9c-aa50-431cd4a03915,Meghan Gomez,arthur58@hotmail.com,32,male,628 Rogers Shoal Suite 803,Port Matthewstad,19766,Creator,2024-04-12,True
+3f10d721-57af-4f9c-aa50-431cd4a03915,Meghan Gomez,arthur58@hotmail.com,32,male,628 Rogers Shoal Suite 803,Port Matthewstad,19766,Creator,2024-07-02,False
+3f10d721-57af-4f9c-aa50-431cd4a03915,Meghan Gomez,arthur58@hotmail.com,32,male,628 Rogers Shoal Suite 803,Port Matthewstad,19766,Music,2024-12-02,False
+5a9f7e4f-4643-4d2a-8ba3-e43d9a2c6194,Tammy Smith,hsalazar@yahoo.com,20,female,47491 Jesse Avenue,Matthewside,75016,Creator,2024-09-26,True
+6a7d431e-cd57-4d7a-9fa9-b395d34bdd03,Natalie Ward,dennisbeth@yahoo.com,64,female,20708 Newman Springs Suite 579,Port Amyfurt,55465,Pro,2024-09-09,True
+3a2a9894-039c-42f8-bb41-87a81fbd2061,Kendra Brown,trodriguez@gmail.com,40,female,870 Ruben Lakes,East Thomas,70670,Music,2025-02-02,True
+0d035c7a-7e6f-4cd0-b82e-e92b9eee196f,Russell Smith,taylormelissa@hotmail.com,61,female,4525 Frank Village Suite 855,South Kristinfurt,70587,Basic,2024-01-01,False
+43cd12c0-f27a-477e-9a82-608cd0a7a513,Harold Williamson,danny11@hotmail.com,51,male,130 Elizabeth Walks,Marieland,00605,Pro,2023-01-12,True
+43cd12c0-f27a-477e-9a82-608cd0a7a513,Harold Williamson,danny11@hotmail.com,51,male,130 Elizabeth Walks,Marieland,00605,Pro,2024-12-17,True
+fbef43b4-a332-4ef0-81be-f0a92d6588cf,Michelle Williams,ehanson@hensley.com,50,male,91350 Brandon Canyon Suite 501,East Michael,69984,Music,2022-11-02,True
+49d7bc1a-0ed3-4252-b013-6ecf664b440b,Kristen Price,raymond54@yahoo.com,23,female,22896 Kayla Lights,Lawrencemouth,34864,Music,2024-11-21,False
+49d7bc1a-0ed3-4252-b013-6ecf664b440b,Kristen Price,raymond54@yahoo.com,23,female,22896 Kayla Lights,Lawrencemouth,34864,Music,2025-05-08,False
+49d7bc1a-0ed3-4252-b013-6ecf664b440b,Kristen Price,raymond54@yahoo.com,23,female,22896 Kayla Lights,Lawrencemouth,34864,Basic,2024-06-04,False
