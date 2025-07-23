@@ -28,3 +28,6 @@ This project contains a collection of Python scripts using the DLTHub (Data Load
 Extract and flatten nested data from PostgreSQL tables using pandas (e.g., unnesting JSON columns or lists of dictionaries).
 1 pipeline to load all to snowflake in single click
 Configure and execute DLTHub piepline that load the unnested data into dedicated Snowflake schemas and tables.
+
+**DLTHub Pipeline 5**
+date datatype error
